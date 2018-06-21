@@ -1,0 +1,9 @@
+{
+  "name": "kinesis-node",
+  "version": "1.0.0",
+  "description": "Kinesis client (consumer and producer) for Node.js written in pure Node.js",
+  "main": "index.js",
+  "repository": "https://github.com/valeryq/kinesis-node.git",
+  "author": "Valery Zakharchenko",
+  "license": "MIT"
+}
